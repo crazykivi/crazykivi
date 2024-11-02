@@ -54,7 +54,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/vmware.png" alt="vm_ware" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-# Работал с:
+# Работаю с:
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/go.png" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -69,4 +69,7 @@
   </a>
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/vue.png" alt="vuejs" style="vertical-align:top; margin:6px 4px">
+  </a>
+    <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="vuejs" style="vertical-align:top; margin:6px 4px">
   </a>
