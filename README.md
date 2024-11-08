@@ -3,6 +3,7 @@
 ### 29.01.1999 (25 лет)
 ### Родился в городе Черногорск, республика Хакасия
 ### На данный момент проживаю в городе Красноярск
+### LeetCode: https://leetcode.com/u/crazykivi/
 
 # Мой стек
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazykivi)](https://github.com/anuraghazra/github-readme-stats)
