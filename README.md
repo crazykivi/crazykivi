@@ -23,10 +23,7 @@
 # Фреймворки
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs.png" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/jquery.png" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/vue.png" alt="vuejs" style="vertical-align:top; margin:6px 4px">
   </a>
