@@ -3,7 +3,6 @@
 ### 29.01.1999 (25 лет)
 ### Родился в городе Черногорск, республика Хакасия
 ### На данный момент проживаю в городе Красноярск
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crazykivi)](https://git.io/streak-stats)
 
 # Мой стек
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazykivi)](https://github.com/anuraghazra/github-readme-stats)
