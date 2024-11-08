@@ -27,6 +27,9 @@
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/jquery.png" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a>  
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/vue.png" alt="vuejs" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 # Основная деятельность
    <a href="#">
@@ -53,22 +56,27 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/vmware.png" alt="vm_ware" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-# Работаю с:
+# Работаю на данный момент с:
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/go.png" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/bootstrap.png" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/docker.png" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/laravel.png" alt="laravel" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs.png" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/vue.png" alt="vuejs" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="vuejs" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/vue.png" alt="vuejs" style="vertical-align:top; margin:6px 4px">
-  </a>
-    <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="vuejs" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/bootstrap.png" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/laravel.png" alt="laravel" style="vertical-align:top; margin:6px 4px">
   </a>
