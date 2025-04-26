@@ -7,7 +7,7 @@
 ### LeetCode: https://leetcode.com/u/crazykivi/
 
 # Мой стек
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazykivi)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
