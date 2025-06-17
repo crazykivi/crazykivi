@@ -1,10 +1,10 @@
 # О себе
-### Редько Никита Сергеевич
-### 29.01.1999 (26 лет)
-### Родился в городе Черногорск, республика Хакасия
-### На данный момент проживаю в городе Красноярск
-### Личный сайт: http://nikitaredk0.ru/
-### LeetCode: https://leetcode.com/u/crazykivi/
+- Редько Никита Сергеевич
+- 29.01.1999 (26 лет)
+- Личный сайт: http://nikitaredk0.ru/
+- LeetCode: https://leetcode.com/u/crazykivi/
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazykivi&show_icons=true&theme=radical)
 
 # Мой стек
 
