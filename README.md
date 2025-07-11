@@ -2,6 +2,7 @@
 - Редько Никита Сергеевич
 - 29.01.1999 (26 лет)
 - Личный сайт: http://nikitaredk0.ru/
+- Второй домен (дублирует ссылку с первого): http://crazykivi.ru
 - LeetCode: https://leetcode.com/u/crazykivi/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazykivi&show_icons=true&theme=radical)
