@@ -1,6 +1,5 @@
 # О себе
-- Редько Никита Сергеевич
-- 29.01.1999 (26 лет)
+- Редько Никита Сергеевич (26 лет)
 - Личный сайт: https://nikitaredk0.ru/
 - LeetCode: https://leetcode.com/u/crazykivi/
 
