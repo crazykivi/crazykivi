@@ -2,7 +2,9 @@
 **Редько Никита Сергеевич**, 26 лет  
 [Личный сайт](https://nikitaredk0.ru/) | [LeetCode](https://leetcode.com/u/crazykivi/)
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crazykivi&show_icons=true&theme=radical)
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazykivi&theme=radical)
 
 ---
 
