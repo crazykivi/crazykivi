@@ -1,5 +1,5 @@
 ### Обо мне  
-**Редько Никита Сергеевич**, 27 лет  
+**Редько Никита**, 27 лет  
 [Личный сайт](https://nikitaredk0.ru/) | [LeetCode](https://leetcode.com/u/crazykivi/)
 
 ---
